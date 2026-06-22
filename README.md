@@ -44,8 +44,5 @@ This project presents a comprehensive sales analysis dashboard for California us
 - Dataset (.xlsx/.csv)
 - Dashboard Screenshots
 
-## Dashboard Preview
-(Add Dashboard Screenshot Here)
-
 ## Conclusion
 The dashboard provides valuable insights into California sales performance and helps identify opportunities for improving revenue and profitability through data-driven decision-making.
